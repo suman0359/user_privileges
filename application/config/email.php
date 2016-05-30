@@ -15,7 +15,7 @@ $config['smtp_port'] = '465';
 $config['smtp_user'] = 'suman0359@gmail.com'; //change this
 
 // SMTP Password.
-$config['smtp_pass'] = 'sdrmdths0359'; //change this
+$config['smtp_pass'] = 'Password'; //change this
 
 // mailtype = text or html
 $config['mailtype'] = 'text';
