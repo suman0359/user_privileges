@@ -1,5 +1,4 @@
-# user_privileges
-CodeIgniter Authentication Module
+# CodeIgniter Authentication Library
 
 Clone From https://github.com/yoosuf/DX-Auth
 
